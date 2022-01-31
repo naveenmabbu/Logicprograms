@@ -35,7 +35,7 @@ namespace Day6
 				return calculate(cash, notes);
 			}
 		}
-		static void Main(string[] args)
+		Public static void Main()
 		{
 			Console.WriteLine("Enter Amount:");
 			int cash = int.Parse(Console.ReadLine());
