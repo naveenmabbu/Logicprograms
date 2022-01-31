@@ -10,7 +10,7 @@ Console.WriteLine("WELCOME TO THE LOGICAL PROGRAMS");
 //Reversenumber.Main();
 //CoupoNumber.Main();
 //StopWatch.Main();
-//Vendingachine.calculate();
+//Vendingachine.Main();
 //DayOfWeek.Main();
 //TemperatureConversion.Main();
 //MonthlyPayment_cs.Main();
